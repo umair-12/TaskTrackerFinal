@@ -8,4 +8,4 @@ The version 2018.10.11 is modified version of the TaskTracker Application, User 
 
 Please read the User Manual before you use this application.
 
-[Contribution TaskTrackerFinal](User-Manual.md)
+[TaskTrackerFinal](User-Manual.md)
