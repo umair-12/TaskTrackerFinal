@@ -9,4 +9,3 @@ The version 2018.10.11 is modified version of the TaskTracker Application, User 
 Please read the User Manual before you use this application.
 
 [User-Manual.md](/src/moh/User-Manual.md)
-[Class Diagram](TaskTrackerFinal/TaskTracker Diagram (1).pdf)
