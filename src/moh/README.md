@@ -11,4 +11,4 @@ SDA4 project
 
 Please read the User Manual before you use this application.
 
-[User-Manual](TaskTrackerFinal/src/moh/User-Manual.md)
+[User-Manual](src/moh/User-Manual.md)
